@@ -1,2 +1,3 @@
 # First_repository
-Learning purpose
+Learning purpose....
+Learning to use git
